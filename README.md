@@ -135,3 +135,13 @@ An pre-configured Postman Collection is included in the project root:
     *   `baseUrl`: Defaulted to `http://localhost:5000`
     *   `token`: Left blank initially.
 *   **Automatic JWT Token Saving**: The **User Login** request contains a test script that automatically extracts the JWT token upon a successful response and updates the collection's `token` variable. Subsequent protected requests will automatically read from `{{token}}` in their Authorization tab.
+
+
+---
+## 🔗 Project Links
+
+**GitHub Link:** https://github.com/vbuvaneshwani07-spec/AI_FAQ_API
+
+**Demo Video Link:** https://drive.google.com/file/d/1iyJzDnHOMY1SnyJCuUZiKNbyJEo88gSc/view?usp=sharing
+
+**Presentation:** Untitled presentation.pdf
